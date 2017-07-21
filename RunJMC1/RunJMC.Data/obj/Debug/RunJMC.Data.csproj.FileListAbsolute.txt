@@ -1,0 +1,7 @@
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\bin\Debug\RunJMC.Data.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\bin\Debug\RunJMC.Data.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\bin\Debug\RunJMC.Models.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\bin\Debug\RunJMC.Models.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\obj\Debug\RunJMC.Data.csprojResolveAssemblyReference.cache
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\obj\Debug\RunJMC.Data.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Data\obj\Debug\RunJMC.Data.pdb

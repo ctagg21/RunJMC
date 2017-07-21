@@ -1,2 +1,0 @@
-# RunJMC
-Blog Site

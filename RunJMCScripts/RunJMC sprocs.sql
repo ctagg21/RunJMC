@@ -94,11 +94,11 @@ END
 GO
 
 IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
-   WHERE ROUTINE_NAME = 'GetEntryByTag')
-      DROP PROCEDURE GetEntryByTag
+   WHERE ROUTINE_NAME = 'GetEntriesByTag')
+      DROP PROCEDURE GetEntriesByTag
 GO
 
-CREATE PROCEDURE GetEntryByTag (
+CREATE PROCEDURE GetEntriesByTag (
 	@TagId int
 ) AS
 BEGIN
@@ -111,11 +111,11 @@ END
 GO
 
 IF EXISTS(SELECT * FROM INFORMATION_SCHEMA.ROUTINES
-   WHERE ROUTINE_NAME = 'GetEntryByCategory')
-      DROP PROCEDURE GetEntryByCategory
+   WHERE ROUTINE_NAME = 'GetEntriesByCategory')
+      DROP PROCEDURE GetEntriesByCategory
 GO
 
-CREATE PROCEDURE GetEntryByCategory (
+CREATE PROCEDURE GetEntriesByCategory (
 	@CategoryId int
 ) AS
 BEGIN

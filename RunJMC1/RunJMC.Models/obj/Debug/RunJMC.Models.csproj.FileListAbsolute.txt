@@ -1,0 +1,4 @@
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Models\bin\Debug\RunJMC.Models.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Models\bin\Debug\RunJMC.Models.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Models\obj\Debug\RunJMC.Models.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Models\obj\Debug\RunJMC.Models.pdb

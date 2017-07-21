@@ -49,7 +49,10 @@ INSERT INTO Entries (EntryId, Content, IsApproved, CategoryId, UserId, Title)
 	
 	SET IDENTITY_INSERT Entries OFF;
 
-INSERT INTO EntriesTables(EntryId, TagId)
+INSERT INTO EntriesTags(EntryId, TagId)
 	VALUES (1, 1),
 	(1, 2),
-	(2, 4);
+	(2, 4),
+	(2, 2);
+
+	END

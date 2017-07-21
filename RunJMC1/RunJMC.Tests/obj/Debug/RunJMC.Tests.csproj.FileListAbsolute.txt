@@ -1,0 +1,12 @@
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Tests.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Tests.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\nunit.framework.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Data.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Models.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Data.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Models.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\nunit.framework.xml
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\obj\Debug\RunJMC.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\obj\Debug\RunJMC.Tests.dll
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\obj\Debug\RunJMC.Tests.pdb
+c:\Users\Chris\documents\visual studio 2017\Projects\RunJMC1\RunJMC.Tests\bin\Debug\RunJMC.Tests.dll.config
