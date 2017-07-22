@@ -181,7 +181,7 @@ namespace RunJMC.Data.Repositories
 
                 cmd.Parameters.AddWithValue("@Content", entry.Content);
                 cmd.Parameters.AddWithValue("@IsApproved", entry.IsApproved);
-                cmd.Parameters.AddWithValue("@CategorId", entry.CategoryId);
+                cmd.Parameters.AddWithValue("@CategoryId", entry.CategoryId);
                 cmd.Parameters.AddWithValue("@UserId", entry.UserId);
                 cmd.Parameters.AddWithValue("@Title", entry.Title);
                 cmd.Parameters.AddWithValue("@IsStatic", entry.IsStatic);
